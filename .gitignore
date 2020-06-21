@@ -1,0 +1,6 @@
+logs/
+data/
+output/
+__pycache__
+*.pyc
+.idea/
